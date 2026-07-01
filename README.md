@@ -2,12 +2,6 @@
 Vision Tracker — это настольное приложение на Python для детекции и отслеживания (трекинга) людей и транспортных средств в реальном времени.
 Программа позволяет обрабатывать видеопоток с камеры или файлов с помощью AI.
 
-<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/acb9c362-f799-4586-bfbe-5de8af5bf427" />
-
-<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/41a0ec32-58bc-4ed8-a197-8d316f35ae3c" />
-
-<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/53788639-973c-4836-bd99-8b251884dc4e" />
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Основные возможности
@@ -20,6 +14,17 @@ Vision Tracker — это настольное приложение на Python 
 Оптимизация: Работает на CPU и GPU. Интерфейс не подвисает благодаря выносу обработки видео в отдельный поток. 
 
 Настраиваемость: Все параметры (порог уверенности, размер модели, целевые классы) вынесены в отдельный файл конфигурации config.py.
+
+
+
+<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/acb9c362-f799-4586-bfbe-5de8af5bf427" />
+
+
+<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/41a0ec32-58bc-4ed8-a197-8d316f35ae3c" />
+
+
+<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/53788639-973c-4836-bd99-8b251884dc4e" />
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
