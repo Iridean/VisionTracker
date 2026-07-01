@@ -1,0 +1,9 @@
+ultralytics>=8.3.0        # YOLO11 + встроенный трекинг (ByteTrack)
+opencv-python>=4.9.0
+
+# Отображение кадров в Tkinter
+Pillow>=10.2.0            # Конвертация кадров OpenCV в формат для Tkinter
+
+# Вспомогательное
+numpy>=1.26.0
+
